@@ -14,13 +14,18 @@ import java.util.Map;
  * scenarios. Additional endpoints are being considered
  * (e.g. /deflate).
  *
+ * <br><br>
+ *
  * All endpoint responses are JSON-encoded.
  *
- * @see <a href="http://httpbin.org">http://httpbin.org</a>
+ * <br><br>
  *
  * Created: 03/16/14
  *
+ * <br><br>
+ * 
  * @author Dmitry Mozgin
+ * @see <a href="http://httpbin.org">http://httpbin.org</a>
  */
 public class HttpbinRequestBuilder {
 

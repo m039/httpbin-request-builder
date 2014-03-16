@@ -3,7 +3,7 @@ About
 
 This code is extremly simple, nothing serious. 
 
-I just wanted to play with java, maven and tests.
+I just wanted to play with java, javadocs, maven and tests.
 
 Thanks
 ======
