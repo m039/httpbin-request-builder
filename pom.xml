@@ -6,7 +6,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.m039.httpbin</groupId>
-  <artifactId>request-builder</artifactId>
+  <artifactId>httpbin-request-builder</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
